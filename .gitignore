@@ -1,0 +1,5 @@
+cv2
+imutils
+pyzbar
+.DS_Store
+barcodes.csv
